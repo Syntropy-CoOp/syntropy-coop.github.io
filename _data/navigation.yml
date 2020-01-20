@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /home/
-    - title: "About Us"
+  - title: "About Us"
     url: /about-us/
   # - title: "Sample Collections"
   #   url: /collection-archive/
