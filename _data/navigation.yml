@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About Us"
+  - title: "Home"
+    url: /home/
+    - title: "About Us"
     url: /about-us/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
