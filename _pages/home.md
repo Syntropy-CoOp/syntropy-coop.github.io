@@ -7,8 +7,7 @@ header:
   actions:
     - label: "Learn more about us"
       url: "/about-us"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+excerpt: A user-cooperative and aspiring worker-cooperative with a mission in building out the technological backbone of America's Left.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
