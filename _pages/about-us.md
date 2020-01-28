@@ -3,7 +3,7 @@ permalink: /about-us/
 title: "About"
 toc: true
 ---
-## Members of our Cooperative
+## Members
 
 Brendan Greenlee
 
