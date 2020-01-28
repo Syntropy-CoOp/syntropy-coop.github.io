@@ -13,9 +13,9 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Choose your theme"
+    excerpt: "Open source and able to be deployed in minutes, choose a layout and let us know how to ."
+    url: "/website-layouts"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
@@ -34,4 +34,4 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
