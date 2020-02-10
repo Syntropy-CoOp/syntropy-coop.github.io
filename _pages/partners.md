@@ -1,5 +1,5 @@
 ---
-permalink: /partners/
+permalink: /partnerships/
 title: "Partners"
 layout: splash
 header:
