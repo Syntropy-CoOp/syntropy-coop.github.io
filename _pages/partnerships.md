@@ -4,8 +4,6 @@ title: "Partnerships"
 layout: single
 toc: true
 ---
-## Website creation, management, and security
+## Metro DC DSA
 
-A responsive and modern website for all of your needs.
-
-## Mission statement
+The Metro DC chapter of Democratic Socialists of America, we are proud to assist with their website and organizing tools.
