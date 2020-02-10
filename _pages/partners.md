@@ -1,7 +1,7 @@
 ---
 title: "Partners"
 layout: splash
-permalink: /partners/
+permalink: /partner/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
