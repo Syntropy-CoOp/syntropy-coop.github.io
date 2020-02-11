@@ -8,18 +8,17 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: "We support candidates for public office who stand up to fascism, demand equal access to housing, and ensure a just transition. Below are candidates we have endorsed."
 feature_row2:
-  - image_path: /assets/images/janeese-social-teaser.png
-    alt: "Picture of Janeese Lewis George"
-    title: "Janeese Lewis George"
-    excerpt: 'We are proud to endorse a third-generation Washingtonian who has lived the issues her constituents are facing.'
+  - image_path: /assets/images/DCDSALogo
+    alt: "Picture of logo for Metro DC DSA"
+    title: "Metro DC DSA"
+    excerpt: 'We are proud to work with an organization that fights for housing as a right, thwarts fascism, and organizes democratic workplaces.'
     url: "#test-link"
-    btn_label: "Read our official endorsement here"
+    btn_label: "Read our statement here"
     btn_class: "btn--primary"
 apply:
-  - title: "Apply for an endorsement"
-    excerpt: 'Please click the button below for more information about applying for an endorsement.'
+  - title: "Contact us about a partnership"
     url: /endorsements/application/
-    btn_label: "Application information here"
+    btn_label: "Contact us"
     btn_class: "btn--primary"
 toc: true
 ---
