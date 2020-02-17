@@ -8,4 +8,4 @@ toc: true
 
 A responsive and modern website for all of your needs.
 
-## Mission statement
+See what your website could look like in a week's time <a href="/website-layouts/">here</a>.
