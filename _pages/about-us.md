@@ -8,4 +8,4 @@ toc: true
 
 Brendan Greenlee
 
-## Mission statement
+More coming soon!
