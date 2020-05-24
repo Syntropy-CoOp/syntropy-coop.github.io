@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "About Us"
-    url: /about-us/
+  # - title: "About Us"
+  #   url: /about-us/
   - title: "Partnerships"
     url: /partnerships/
   - title: "Services"
