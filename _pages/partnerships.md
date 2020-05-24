@@ -12,9 +12,6 @@ feature_row2:
     alt: "Picture of logo for Metro DC DSA"
     title: "Metro DC DSA"
     excerpt: 'We are proud to work with an organization that fights for housing as a right, thwarts fascism, and organizes democratic workplaces.'
-    url: "#test-link"
-    btn_label: "Read our statement here"
-    btn_class: "btn--primary"
 apply:
   - title: "Contact us about a partnership"
     url: /endorsements/application/
