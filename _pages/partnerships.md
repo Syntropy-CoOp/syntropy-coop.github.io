@@ -11,10 +11,10 @@ feature_row2:
   - image_path: /assets/images/DCDSALogo.png
     alt: "Picture of logo for Metro DC DSA"
     title: "Metro DC DSA"
-    excerpt: 'We are proud to work with an organization that fights for housing as a right, thwarts fascism, and organizes democratic workplaces.'
+    excerpt: 'We are proud to work with an organization that fights for housing as a right, thwarts fascism, and organizes democratic workplaces. On March 19th, 2020, Syntropy launched Metro DC DSA's new website. The new website features a modernized and easier to use interface along with web traffic tracking.'
 apply:
   - title: "Contact us about a partnership"
-    url: /endorsements/application/
+    url: mailto:contact@syntropy-coop.com
     btn_label: "Contact us"
     btn_class: "btn--primary"
 toc: true
