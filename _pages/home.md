@@ -26,7 +26,10 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "Remote-ready"
     title: "Remote-work ready"
-    excerpt: "Syntropy is ready to assist you with pandemic-proof operations."      
+    excerpt: "Syntropy is ready to assist you with pandemic-proof operations."
+    url: "mailto:contact@syntropy-coop.com"
+    btn_class: "btn--primary"
+    btn_label: "Contact Us"      
 ---
 
 {% include feature_row %}
