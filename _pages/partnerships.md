@@ -14,7 +14,7 @@ feature_row2:
     excerpt: "We are proud to work with an organization that fights for housing as a right, thwarts fascism, and organizes democratic workplaces. On March 17th, 2020, Syntropy launched Metro DC DSA's new website. The new website features a modernized and easier to use interface along with web traffic tracking."
     url: https://mdcdsa.org/home/
     btn_label: "See their website"
-    btn_class: "btn--primary
+    btn_class: "btn--primary"
 apply:
   - title: "Contact us about a partnership"
     url: "mailto:contact@syntropy-coop.com"
