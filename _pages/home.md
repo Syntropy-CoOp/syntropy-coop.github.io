@@ -13,7 +13,7 @@ feature_row:
     alt: "customizable"
     title: "Partners"
     excerpt: "Open source and able to be deployed in minutes, choose a layout and let us know how to ."
-    url: "/partners"
+    url: "/partnerships"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
