@@ -10,26 +10,23 @@ header:
 excerpt: A user-cooperative and aspiring worker-cooperative with a mission in building out the technological backbone of America's Left.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
+    alt: "Partnerships"
     title: "Partners"
-    excerpt: "Open source and able to be deployed in minutes, choose a layout and let us know how to ."
+    excerpt: "Syntropy is proud to work with organizations that embody progressive values and work to make the world a better place for all."
     url: "/partnerships"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
+    alt: "Services"
     title: "Services"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "From website hosting to campaign tools Syntropy will expand your reach and grow your membership numbers."
     url: "/services"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "Media"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/media"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    alt: "Remote-ready"
+    title: "Remote-work ready"
+    excerpt: "Syntropy is ready to assist you with pandemic-proof operations."      
 ---
 
 {% include feature_row %}
