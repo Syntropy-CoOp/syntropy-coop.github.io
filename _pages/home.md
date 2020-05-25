@@ -4,9 +4,6 @@ permalink: /home/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.png
-  actions:
-    - label: "Learn more about us"
-      url: "/about-us"
 excerpt: A user-cooperative and aspiring worker-cooperative with a mission in building out the technological backbone of America's Left.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
